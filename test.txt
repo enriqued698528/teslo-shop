@@ -1,0 +1,39 @@
+{
+            "description": "The Men"s Quilted Shirt Jacket features a uniquely fit, quilted design for warmth and mobility in cold weather seasons. With an overall street-smart aesthetic, the jacket features subtle silicone injected Tesla logos below the back collar and on the right sleeve, as well as custom matte metal zipper pulls. Made from 87% nylon and 13% polyurethane.",
+            "stock": 5,
+            "price": 200,
+            "sizes": ["XS","S","M","XL","XXL"],
+            "slug": "men_quilted_shirt_jacket",
+            "tags": ["jacket"],
+            "title": "Men"s Quilted Shirt Jacket",
+            "gender": "men"
+}
+
+{
+    "description": "Introducing the Tesla Chill Collection. The Men’s Chill Crew Neck Sweatshirt has a premium, heavyweight exterior and soft fleece interior for comfort in any season. The sweatshirt features a subtle thermoplastic polyurethane T logo on the chest and a Tesla wordmark below the back collar. Made from 60% cotton and 40% recycled polyester.",
+         
+            "stock": 7,
+            "price": 75,
+            "sizes": ["XS","S","M","L","XL","XXL"],
+            "slug": "mens_chill_crew_neck_sweatshirt",
+            "title": "Men’s Chill Crew Neck Sweatshirt",
+            "gender": "men"
+}
+
+
+update
+
+{
+         
+            "stock": 10,
+            "price": 100,
+            "sizes": ["XS","S","M","L","XL","XXL"],
+            "slug": "Mens chill crew neck sweatshirt1",
+            "title": "Enrique prueba",
+            "gender": "men",
+            "tags": ["Tshirt"],
+            "images": [
+                "http://image1.jpg",
+                "http://image2.jpg"
+            ]
+}
