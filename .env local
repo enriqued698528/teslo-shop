@@ -1,0 +1,11 @@
+
+DB_PASSWORD=SecureP@ssword123
+DB_NAME=TesloDB
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=teslo_user
+
+PORT=3000
+HOST_API=http://localhost:3000/api
+
+JWT_SECRET=SecurePSecretKeyForJWTs
